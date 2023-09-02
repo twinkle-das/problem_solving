@@ -1,6 +1,6 @@
 /** Dynamic Programming and bit manupulation
  * Idea is to right shift by 1 which removes last bit === divide by 2
- * Plus checking if the number is odd or even.
+ * In addtion checking if the input number is odd or even.git
  *
  *  **/
 
